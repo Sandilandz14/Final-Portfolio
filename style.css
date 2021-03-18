@@ -221,7 +221,7 @@ section .title::after {
 
 /* about section styling */
 .about .title::after {
-  content: "what i do";
+  content: "who I am";
 }
 .about .about-content .left {
   width: 45%;
@@ -276,7 +276,7 @@ section .title::after {
 .projects .title::after,
 .testimonials .title::after {
   background: #111;
-  content: "what i provide";
+  content: "what I've done";
 }
 .projects .proj-content .card {
   width: calc(33% - 20px);
@@ -417,7 +417,7 @@ abbr {
 
 /* testimonials section styling */
 .testimonials .title::after {
-  content: "who with me";
+  content: "worked with me";
 }
 .testimonials .carousel .card {
   background: #222;
