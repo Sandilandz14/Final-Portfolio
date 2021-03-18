@@ -286,6 +286,7 @@ section .title::after {
   padding: 35px 25px;
   cursor: pointer;
   transition: all 0.3s ease;
+  margin-top: 5px;
 }
 .projects .proj-content .card:hover {
   background: turquoise;
@@ -669,6 +670,9 @@ footer span a:hover {
 @media (max-width: 690px) {
   .max-width {
     padding: 0 23px;
+  }
+  .home {
+    background: url("images/aboutme2.jpg") no-repeat center;
   }
   .home .home-content .text-2 {
     font-size: 60px;
